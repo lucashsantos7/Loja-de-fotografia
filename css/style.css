@@ -217,17 +217,17 @@ header {
 
 /*fotos*/
 
-#fotos {
+#foto {
   flex-direction: row;
   flex-wrap: wrap;
 }
 
-#fotos h2{
+#foto h2{
   width: 100%;
   text-align: center;
 }
 
-#fotos img{
+#foto img{
   width: 33.3333333%;
 }
 
