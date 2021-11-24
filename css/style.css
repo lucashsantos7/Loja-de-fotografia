@@ -118,6 +118,17 @@ header p{
 
 /*Fotos*/
 
+#foto {
+  display:flex;
+  align-items: center;
+  width: 1300px;
+}
+
+.img {
+  width: 1000px;
+  margin-left: 320px;
+}
+
 #fotos {
   display: flex;
   flex-direction: column;
@@ -224,11 +235,11 @@ header {
 
 #foto h2{
   width: 100%;
-  text-align: center;
+  text-align: center; 
 }
 
 #foto img{
-  width: 33.3333333%;
+  width: 33.3333333%; 
 }
 
 /*Contato*/
