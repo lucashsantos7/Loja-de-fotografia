@@ -119,28 +119,18 @@ header p{
 /*Fotos*/
 
 #foto {
-  display:flex;
-  align-items: center;
-  width: 1300px;
-}
-
-.img {
-  width: 1000px;
-  margin-left: 320px;
-}
-
-#fotos {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding-top: 20px;
 }
 
-#fotos h2{
+#foto h2{
   margin-bottom: 20px;
+  text-align: center;
 }
 
-#fotos img{
+#foto img{
   width: 100%;
 }
 
@@ -172,8 +162,7 @@ footer a{
   color: #00FFFF;
 }
 
-@media screen and (min-width 768px ){
-
+@media screen and (min-width 328px){
 }
 
 /*nav*/
